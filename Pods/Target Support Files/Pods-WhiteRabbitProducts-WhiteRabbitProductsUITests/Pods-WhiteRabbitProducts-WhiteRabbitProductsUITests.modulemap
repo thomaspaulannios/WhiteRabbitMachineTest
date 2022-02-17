@@ -1,0 +1,6 @@
+framework module Pods_WhiteRabbitProducts_WhiteRabbitProductsUITests {
+  umbrella header "Pods-WhiteRabbitProducts-WhiteRabbitProductsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

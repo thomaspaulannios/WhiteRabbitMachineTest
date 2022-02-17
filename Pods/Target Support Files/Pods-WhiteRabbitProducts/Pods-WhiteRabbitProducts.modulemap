@@ -1,0 +1,6 @@
+framework module Pods_WhiteRabbitProducts {
+  umbrella header "Pods-WhiteRabbitProducts-umbrella.h"
+
+  export *
+  module * { export * }
+}

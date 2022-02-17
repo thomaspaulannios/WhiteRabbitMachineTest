@@ -1,0 +1,148 @@
+{
+   "Productdetails":[
+      {
+         "ProductDetailsId":100,
+         "ProductCode":"PRDCTCRL",
+         "Products":[],
+         "BannerImageUrl":"",
+         "ProductCarousel":[
+            {
+               "Id":1,
+               "ImageUrl":"https://tinyurl.com/y3w8oaah"
+            },
+            {
+               "Id":2,
+               "ImageUrl":"https://tinyurl.com/y4vaulog"
+            },
+            {
+               "Id":3,
+               "ImageUrl":"https://tinyurl.com/y3j7rq6g"
+            },
+            {
+               "Id":4,
+               "ImageUrl":"https://tinyurl.com/y28jpmyr"
+            },
+            {
+               "Id":5,
+               "ImageUrl":"https://tinyurl.com/y2w7fbdo"
+            },
+            {
+               "Id":6,
+               "ImageUrl":"https://tinyurl.com/yy2f6lha"
+            }
+         ]
+      },
+      {
+         "ProductDetailsId":101,
+         "ProductCode":"PRDCT",
+         "Products":[
+            {
+               "ProductId":11,
+               "ProductImageUrl":"https://tinyurl.com/y4f5e96j",
+               "ProductName":"Trimmers",
+               "ProductOffer":"Min 50% off"
+            },
+            {
+               "ProductId":12,
+               "ProductImageUrl":"https://tinyurl.com/y2szwrys",
+               "ProductName":"Sun glasses",
+               "ProductOffer":"Min 50% off"
+            },
+            {
+               "ProductId":13,
+               "ProductImageUrl":"https://tinyurl.com/y4bfj5b7",
+               "ProductName":"Shirt",
+               "ProductOffer":"Min 50% off"
+            },
+            {
+               "ProductId":14,
+               "ProductImageUrl":"https://tinyurl.com/y44marw5",
+               "ProductName":"Bottle",
+               "ProductOffer":"Min 50% off"
+            }
+         ],
+         "BannerImageUrl":"",
+         "ProductCarousel":[
+            
+         ]
+      },
+      {
+         "ProductDetailsId":102,
+         "ProductCode":"BANNER",
+         "Products":[
+            
+         ],
+         "BannerImageUrl":"https://tinyurl.com/y379jw6s",
+         "ProductCarousel":[
+            
+         ]
+      },
+      {
+         "ProductDetailsId":103,
+         "ProductCode":"PRDCT",
+         "Products":[
+            {
+               "ProductId":15,
+               "ProductImageUrl":"https://tinyurl.com/y4urobx8",
+               "ProductName":"Trimmers",
+               "ProductOffer":"Min 50% off"
+            },
+            {
+               "ProductId":16,
+               "ProductImageUrl":"https://tinyurl.com/y2yhf95n",
+               "ProductName":"Trimmers",
+               "ProductOffer":"Min 50% off"
+            },
+            {
+               "ProductId":17,
+               "ProductImageUrl":"https://tinyurl.com/y5n467o3",
+               "ProductName":"Trimmers",
+               "ProductOffer":"Min 50% off"
+            },
+            {
+               "ProductId":18,
+               "ProductImageUrl":"https://tinyurl.com/yxupqdll",
+               "ProductName":"Toys",
+               "ProductOffer":"Min 20% off"
+            }
+         ],
+         "BannerImageUrl":"",
+         "ProductCarousel":[
+            
+         ]
+      },
+      {
+         "ProductDetailsId":104,
+         "ProductCode":"BANNER",
+         "Products":[
+            
+         ],
+         "BannerImageUrl":"https://tinyurl.com/y3pjtea4",
+         "ProductCarousel":[
+            
+         ]
+      },
+      {
+         "ProductDetailsId":105,
+         "ProductCode":"BANNER",
+         "Products":[
+            
+         ],
+         "BannerImageUrl":"https://tinyurl.com/y2gersqn",
+         "ProductCarousel":[
+            
+         ]
+      },
+      {
+         "ProductDetailsId":106,
+         "ProductCode":"BANNER",
+         "Products":[
+            
+         ],
+         "BannerImageUrl":"https://tinyurl.com/y3c6ksu5",
+         "ProductCarousel":[
+            
+         ]
+      }
+   ]
+}
